@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriele
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R, SQL and Tableau for data analysis and visualization
+- 👀 Aspirant Data Analyst, currently enrolled at Bocconi MiMeC (marketing and communication) master programme
+- Main tools and languages: R, VBA, PYTHON | Power BI, Excel, PowerQuery and Pivot, SPSS
 - 📫 If you want to reach me, just send me an email at gabriele.fulcheri@outlook.it
 
 <!---
